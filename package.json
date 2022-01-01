@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "api-fake-bill-management",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranphucthoai/api-fake-bill-management.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranphucthoai/api-fake-bill-management/issues"
+  },
+  "homepage": "https://github.com/tranphucthoai/api-fake-bill-management#readme"
+}
