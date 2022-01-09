@@ -48,7 +48,7 @@
       "formOfReceipt": 0,
       "createdAt": 0,
       "createdBy": "",
-      "status": true,
+      "status": 0,
       "isCheckDelete": true,
       "branchId": "ThaiBinhDuong"
     }
@@ -58,37 +58,37 @@
       "id": "CardMobi",
       "name": "Card Mobi",
       "position": 1,
-      "status": true
+      "status": 0
     },
     {
       "id": "CardViettle",
       "name": "Card Viettle",
       "position": 2,
-      "status": true
+      "status": 0
     },
     {
       "id": "CardVina",
       "name": "Card Vina",
       "position": 3,
-      "status": true
+      "status": 0
     },
     {
       "id": "SimMobi",
       "name": "Sim Mobi",
       "position": 4,
-      "status": true
+      "status": 0
     },
     {
       "id": "SimVina",
       "name": "Sim Vina",
       "position": 5,
-      "status": true
+      "status": 0
     },
     {
       "id": "SimViettle",
       "name": "Sim Viettle",
       "position": 6,
-      "status": true
+      "status": 0
     }
   ],
   "saleReceipts": [
@@ -101,7 +101,7 @@
       "quantity": 10,
       "price": 50000,
       "paymentAmount": 50000,
-      "status": true,
+      "status": 1,
       "isCheckDelete": false,
       "createdAt": 0,
       "deletedAt": 0,
@@ -117,7 +117,7 @@
       "quantity": 1,
       "price": 40000,
       "paymentAmount": 40000,
-      "status": true,
+      "status": 0,
       "isCheckDelete": false,
       "createdAt": 0,
       "deletedAt": 0,
@@ -130,109 +130,109 @@
       "id": "BaoHiemBaoViet",
       "name": "Bảo Hiểm Bảo Việt",
       "position": 1,
-      "status": true
+      "status": 0
     },
     {
       "id": "BaoHiemPrudential",
       "name": "Bảo Hiểm Prudential",
       "position": 2,
-      "status": true
+      "status": 0
     },
     {
       "id": "BaoHiemPTI",
       "name": "Bảo Hiểm PTI",
       "position": 3,
-      "status": true
+      "status": 0
     },
     {
       "id": "GiaoHangNhanh",
       "name": "Giao Hàng Nhanh",
       "position": 4,
-      "status": true
+      "status": 0
     },
     {
       "id": "GiaoHangTietKiem",
       "name": "Giao Hàng Tiết Kiệm",
       "position": 5,
-      "status": true
+      "status": 0
     },
     {
       "id": "TienDien",
       "name": "Thanh Toán Tiền Điện",
       "position": 6,
-      "status": true
+      "status": 0
     },
     {
       "id": "TienNuoc",
       "name": "Thanh Toán Tiền Nước",
       "position": 7,
-      "status": true
+      "status": 0
     },
     {
       "id": "TruyenHinhAVG",
       "name": "Truyền Hình AVG",
       "position": 8,
-      "status": true
+      "status": 0
     },
     {
       "id": "TruyenHinhK+",
       "name": "Truyền Hình K+",
       "position": 9,
-      "status": true
+      "status": 0
     },
     {
       "id": "TruyenHinhVTCCap",
       "name": "Truyền Hình VTV CAB",
       "position": 10,
-      "status": true
+      "status": 0
     },
     {
       "id": "VayTaiChinhACS",
       "name": "Vay Tài Chính ACS",
       "position": 11,
-      "status": true
+      "status": 0
     },
     {
       "id": "VayTaiChinhDoctorDong",
       "name": "Vay Tài Chính Doctor Dong",
       "position": 12,
-      "status": true
+      "status": 0
     },
     {
       "id": "VayTaiChinhFECredit",
       "name": "Vay Tài Chính FECredit",
       "position": 13,
-      "status": true
+      "status": 0
     },
     {
       "id": "VayTaiChinhHomeCredit",
       "name": "Vay Tài Chính Home Credit",
       "position": 14,
-      "status": true
+      "status": 0
     },
     {
       "id": "VayTaiChinhMCredit",
       "name": "Vay Tài Chính MCredit",
       "position": 15,
-      "status": true
+      "status": 0
     },
     {
       "id": "VayTaiChinhMSBCredit",
       "name": "Vay Tài Chính MSB Credit",
       "position": 16,
-      "status": true
+      "status": 0
     },
     {
       "id": "VayTaiChinhOCB",
       "name": "Vay Tài Chính OCB",
       "position": 17,
-      "status": true
+      "status": 0
     },
     {
       "id": "VayTaiChinhPrudential",
       "name": "Vay Tài Chính Prudential",
       "position": 18,
-      "status": true
+      "status": 0
     }
   ],
   "collectionReceipt": [
@@ -275,7 +275,7 @@
       "formOfReceipt": 0,
       "createdAt": 0,
       "createdBy": "",
-      "status": true,
+      "status": 0,
       "isCheckDelete": true,
       "branchId": "ThaiBinhDuong"
     },
@@ -301,7 +301,7 @@
       "formOfReceipt": 1,
       "createdAt": 0,
       "createdBy": "",
-      "status": false,
+      "status": 1,
       "isCheckDelete": true,
       "branchId": "ThaiBinhDuong"
     },
@@ -327,7 +327,7 @@
       "formOfReceipt": 2,
       "createdAt": 0,
       "createdBy": "",
-      "status": true,
+      "status": 0,
       "isCheckDelete": true,
       "branchId": "ThaiBinhDuong"
     },
@@ -353,7 +353,7 @@
       "formOfReceipt": 1,
       "createdAt": 0,
       "createdBy": "",
-      "status": false,
+      "status": 1,
       "isCheckDelete": true,
       "branchId": "ThaiBinhDuong"
     },
@@ -379,7 +379,7 @@
       "formOfReceipt": 2,
       "createdAt": 0,
       "createdBy": "",
-      "status": false,
+      "status": 0,
       "isCheckDelete": true,
       "branchId": "ThaiBinhDuong"
     }
