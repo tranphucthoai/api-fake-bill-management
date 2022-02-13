@@ -25,7 +25,7 @@
       "consultantPhone ": "0981.79.79.77"
     }
   ],
-  "receivedReceipts": [
+  "receiveReceipts": [
     {
       "id": "RR01",
       "senderName": "Trần Phúc Thoại",
@@ -50,7 +50,8 @@
       "createdBy": "",
       "status": 0,
       "isCheckDelete": true,
-      "branchId": "ThaiBinhDuong"
+      "branchId": "ThaiBinhDuong",
+      "bankId": "Vietcombank"
     }
   ],
   "saleCatalogs": [
@@ -243,7 +244,7 @@
       "address": "q12, thành phố Hồ Chí Minh",
       "collectionCatalogId": "BaoHiemBaoViet",
       "serviceNumber": "MS01",
-      "timeForPayment": 0,
+      "timeForPayment": "20220101",
       "paymentAmount": 0,
       "ischeckDelete": false,
       "branchsId": "ThaiBinhDuong",
@@ -382,6 +383,53 @@
       "status": 0,
       "isCheckDelete": true,
       "branchId": "ThaiBinhDuong"
+    }
+  ],
+  "banks": [
+    {
+      "id": "Agribank",
+      "name": "NH NN&PT Nông thôn Việt Nam",
+      "brandName": "Agribank"
+    },
+    {
+      "id": "VietinBank",
+      "name": "NH TMCP Công thương Việt Nam",
+      "brandName": "VietinBank"
+    },
+    {
+      "id": "BIDV",
+      "name": "NH TMCP Đầu tư và Phát triển Việt Nam",
+      "brandName": "BIDV"
+    },
+    {
+      "id": "Vietcombank",
+      "name": "NH TMCP Ngoại Thương Việt Nam",
+      "brandName": "Vietcombank"
+    },
+    {
+      "id": "ACB",
+      "name": "NH TMCP Á Châu",
+      "brandName": "ACB"
+    },
+    {
+      "id": "Techcombank",
+      "name": "NH TMCP Kỹ Thương",
+      "brandName": "Techcombank"
+    },
+    {
+      "id": "Sacombank",
+      "name": "NH TMCP Sài Gòn Thương Tín",
+      "brandName": "Sacombank"
+    },
+    {
+      "id": "HDBank",
+      "name": "NH TMCP Phát triển Thành phố Hồ Chí Minh",
+      "brandName": "HDBank"
+    },
+    {
+      "id": "MB",
+      "name": "NH TMCP Quân Đội",
+      "brandName": "MB"
     }
   ]
 }
