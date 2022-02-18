@@ -394,7 +394,8 @@
       "branchsId": "ThaiBinhDuong",
       "createDate": 0,
       "deleteDate": 0,
-      "paymentTime": 0
+      "paymentTime": 0,
+      "status": 0
     },
     {
       "id": "CR02",
@@ -409,7 +410,8 @@
       "branchsId": "ThaiBinhDuong",
       "createDate": 0,
       "deleteDate": 0,
-      "paymentTime": 0
+      "paymentTime": 0,
+      "status": 0
     },
     {
       "id": "CR03",
@@ -424,7 +426,8 @@
       "branchsId": "ThaiBinhDuong",
       "createDate": 0,
       "deleteDate": 0,
-      "paymentTime": 0
+      "paymentTime": 0,
+      "status": 1
     },
     {
       "id": "CR04",
@@ -439,7 +442,8 @@
       "branchsId": "ThaiBinhDuong",
       "createDate": 0,
       "deleteDate": 0,
-      "paymentTime": 0
+      "paymentTime": 0,
+      "status": 1
     },
     {
       "id": "CR05",
@@ -454,7 +458,8 @@
       "branchsId": "ThaiBinhDuong",
       "createDate": 0,
       "deleteDate": 0,
-      "paymentTime": 0
+      "paymentTime": 0,
+      "status": 1
     },
     {
       "id": "CR06",
@@ -469,7 +474,8 @@
       "branchsId": "ThaiBinhDuong",
       "createDate": 0,
       "deleteDate": 0,
-      "paymentTime": 0
+      "paymentTime": 0,
+      "status": 1
     },
     {
       "id": "CR07",
@@ -484,7 +490,8 @@
       "branchsId": "ThaiBinhDuong",
       "createDate": 0,
       "deleteDate": 0,
-      "paymentTime": 0
+      "paymentTime": 0,
+      "status": 0
     },
     {
       "id": "CR08",
@@ -499,7 +506,8 @@
       "branchsId": "ThaiBinhDuong",
       "createDate": 0,
       "deleteDate": 0,
-      "paymentTime": 0
+      "paymentTime": 0,
+      "status": 1
     }
   ],
   "transferReceipts": [
